@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install autopep8 from PyPI
-  uses: install-pinned/autopep8@ffffffffffffffffffffffffffffffffffffffff
+  uses: install-pinned/autopep8@20803c7ad7c7d85fedebf2eb08b257a027273bd3  # 1.7.0
 ```
 
 ## Alternatives
