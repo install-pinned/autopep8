@@ -13,8 +13,8 @@ This action installs a pinned version of **autopep8** and all its dependencies, 
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install autopep8 from PyPI
-  uses: install-pinned/autopep8@a67bf3d3846616adb496583fa52dea6873e056d3  # 1.7.0
+      - name: Install autopep8 from PyPI
+        uses: install-pinned/autopep8@a67bf3d3846616adb496583fa52dea6873e056d3  # 1.7.0
 ```
 
 ## Alternatives
