@@ -19,7 +19,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install autopep8 from PyPI
-        uses: install-pinned/autopep8@ffffffffffffffffffffffffffffffffffffffff
+        uses: install-pinned/autopep8@eb3da1df94c528fa88d9beb15e649a3be67e6670  # 2.0.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
